@@ -19,6 +19,5 @@ This repository is created for GitHub workshop practice.
 * README.md
 * intro.txt
 
-
 This is change from branch B
 
